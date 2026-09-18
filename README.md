@@ -1,5 +1,13 @@
 # Customer Demographics Study
 
+## Intern Details
+
+INTERN ID- CITS8914
+INTERN NAME - pavan sai
+NO OF WEEKS - 4
+PROJECT NAME - SALES TREND VISUALIAZATION
+
+
 ## 📌 Project Overview
 
 Customer Demographics Study is a data analysis project that analyzes customer demographic information and spending behavior using Python.
